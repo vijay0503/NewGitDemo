@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\GitProjects\NewGitDemo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+34431787.index
+2291567432.index
+3220761060.index
+363731205.index
+3188346631.index
+3799581789.index
+2048774653.index
