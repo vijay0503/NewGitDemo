@@ -10,7 +10,7 @@ public class MessageService {
 //private Map<Long,Message> messages=DataBaseClass.getMessages();
 	
 	/*public MessageService(){
-		messages.put(1L,new Message(1,"Hello","vijay"));
+		messages.put(1L,new Message(1,"Hello","babu"));
 		messages.put(2L,new Message(2,"Hello2","vijay2"));
 	}*/
 	
